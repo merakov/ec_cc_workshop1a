@@ -334,7 +334,7 @@ public class EmployeeInfoUI
                         for (DOCompany doc : companyList)
                         {
                             companyMap.put(doc.getId(), doc.getName());
-                            //dummy comment
+                            //dum
                         }
 
                         //================
